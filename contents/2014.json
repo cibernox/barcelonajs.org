@@ -55,7 +55,7 @@
 				"description": "Now that you know Backbone.js is time to become a puppeteer and use Martionette.js, a composite application library for Backbone.js that aims to simplify the construction of large scale Javascript applications."
 			},
 			{
-				"title": "Meet Ember.js
+				"title": "Meet Ember.js",
 				"presenter": {
 					"username": "miguelcamba",
 					"displayname": "Miguel Camba"
